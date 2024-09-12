@@ -1,0 +1,79 @@
+/* Estilos de nuestro documento HTML */
+
+body {
+	background-color: PeachPuff;
+	font-family: Helvetica;
+	margin: 5px;
+}
+
+h1 {
+	color: indigo;
+	margin: 30px;
+	border: solid;
+	padding: 30px;
+	width: 600px;
+	height: 100px;
+	text-align: center;
+	font-size: 40px;
+}
+
+h3 {
+	color: #FF6347;
+	margin: 10px 50px 10px 50px;
+	border: 2px dotted black;
+	padding: 50px 0px 50px 0px;
+	text-align: right;
+	font-size: 30px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+p {
+	color: tomato;
+	margin: 0px;
+	border: solid;
+	padding: 0px;
+	font-size: 20px;
+	text-indent: 50px;
+}
+
+.negrita {
+	color: blue;
+	font-weight: bold;
+}
+
+.cursiva {
+	color: green;
+	font-style: italic;
+}
+
+a {
+	color: DarkCyan;
+	font-size: 20px;
+}
+
+table{
+	color: indigo;
+	font-family: sans-serif;
+	border-collapse: collapse;
+	width: 80%;
+}
+
+th, td {
+	border: 1px solid;
+}
+.estiloVideo {
+	width: 50%;
+}
+
+.bloque {
+	display: block;
+}
+
+.linea {
+	display: inline-block;
+}
+
+.posicion-vertical {
+	vertical-align: middle;
+}
